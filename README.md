@@ -50,6 +50,15 @@ The news Api will allow users to access the news without waiting for the news to
 ```
 python3.10 -m venv virtual --without-pip
 ```
+# Running the application locally
+```
+
+source virtual/bin/activate
+
+pip install -r requirements.txt
+
+gunicorn --bind 0.0.0.0:5000 app:app
+```
 ## Reference
   ### The reference materials used in this project can be accessed though this link
   * [Resource](https://moringaschool.instructure.com/courses/631/assignments/10035?module_item_id=57241)
