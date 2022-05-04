@@ -44,10 +44,9 @@ The news Api will allow users to access the news without waiting for the news to
 
 
 
-[live-link](https://github.com/rossyvee/Week4IP-BeyondPizaa)
 ## Reference
   ### The reference materials used in this project can be accessed though this link
-  * [Resource](https://moringaschool.instructure.com/courses/586/assignments/9284?confetti=true&submitted=0)
+  * [Resource](https://moringaschool.instructure.com/courses/631/assignments/10035?module_item_id=57241)
   ## Licence
 MIT License
 Copyright (c) [2022] [Roseline Akinyi]
