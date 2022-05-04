@@ -19,7 +19,7 @@ The news Api will allow users to access the news without waiting for the news to
 * Bootstrap
 
 ## Requirements
-* A good internet connection
+* A stable internet connection
 ## set up instruction and installation
  clone this repository to a folder git@github.com:rossyvee/Week4IP-BeyondPizaa.git
  Extract the cloned file
