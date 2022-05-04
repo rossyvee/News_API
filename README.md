@@ -35,12 +35,12 @@ The news Api will allow users to access the news without waiting for the news to
   5. open the application on your browser 
 
 ## Behaviour Drive and Development
-| FirstName     | LastName      | City   
-| ------------- | ------------- | --------    |
-| `John`        | Test1         | `NewYork`   |
-| `Bob`         | Test2         | `Toronto`   |
-
-
+| Behaviour     | Input              | Output
+|---------------|--------------------| --------    |
+| Display news sources | 'flask run         |  List of various news sources is displayed' |
+| Display tabs with news by category  | Click the tab link | Clickable links to open news based on category  |
+|Display articles from a news source|Click the news source|Redirected to a page with articles from the source|
+|To Read an entire article|click a link to the article|Redirected to the news source's site to read the entire article|
 
 
 
