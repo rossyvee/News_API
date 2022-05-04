@@ -33,6 +33,7 @@ The news Api will allow users to access the news without waiting for the news to
   3. Export configurations
   export API_KEY='{Enter your News Api Key}
   4. Run the application with flask run command
+  5. open the application on your browser 
 
  Open terminal command line then navigate to the folder of the application. cd BEYONDPIZZA
  open index.html on your web browser
