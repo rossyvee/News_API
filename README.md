@@ -26,8 +26,8 @@ The news Api will allow users to access the news without waiting for the news to
 * A user will be able to see the image, description and the time a news article was created from the News-Articles tab.
 * A click on an article and read the full article on the source website.
 ## set up instruction and installation
- clone this repository to a folder git@github.com:rossyvee/Week4IP-BeyondPizaa.git
- Extract the cloned file
+ 1. clone this repository to a folder https://github.com/rossyvee/News_API
+ 2. Extract the cloned file and install requirements
  Open terminal command line then navigate to the folder of the application. cd BEYONDPIZZA
  open index.html on your web browser
 
