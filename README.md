@@ -20,6 +20,11 @@ The news Api will allow users to access the news without waiting for the news to
 
 ## Requirements
 * A stable internet connection
+## User Story
+* A user would see various news sources on the homepage of the application.
+* A user would also be able to select a news source and see all news articles from the selected news source in the application.
+* A user will be able to see the image, description and the time a news article was created from the News-Articles tab.
+* A click on an article and read the full article on the source website.
 ## set up instruction and installation
  clone this repository to a folder git@github.com:rossyvee/Week4IP-BeyondPizaa.git
  Extract the cloned file
