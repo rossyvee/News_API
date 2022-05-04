@@ -59,6 +59,10 @@ pip install -r requirements.txt
 
 gunicorn --bind 0.0.0.0:5000 app:app
 ```
+- alternatively run (make sure the virtual environment is activated)
+
+``` python wsgi.py ```
+
 ## Reference
   ### The reference materials used in this project can be accessed though this link
   * [Resource](https://moringaschool.instructure.com/courses/631/assignments/10035?module_item_id=57241)
