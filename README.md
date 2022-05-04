@@ -10,8 +10,7 @@
 + [Authors Info](#aut)
 
 ## Description
-A fictional website that allows users to choose a pizza size, pizza toppings and crust of their preference. It then claculates the total cost and insert address information for a delivery
-
+The news Api will allow users to access the news without waiting for the news to air at a specified time
  ![Screenshot] (<img src="screenshot img/Screenshot from 2022-03-21 00-18-35.png">)
 
 ## Technology Used
