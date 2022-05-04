@@ -31,6 +31,7 @@ The news Api will allow users to access the news without waiting for the news to
 * cd News_Api_V2
 * pip install -r requirements.txt
   3. Export configurations
+  export API_KEY='{Enter your News Api Key}
 
  Open terminal command line then navigate to the folder of the application. cd BEYONDPIZZA
  open index.html on your web browser
