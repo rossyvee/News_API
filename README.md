@@ -11,7 +11,6 @@
 
 ## Description
 The news Api will allow users to access the news without waiting for the news to air at a specified time
- ![Screenshot] (api/images/Screenshot from 2022-05-04 13-14-22.png)
 ## Technology Used
 * Flask
 * Python3
