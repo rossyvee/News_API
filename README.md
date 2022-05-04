@@ -35,11 +35,7 @@ The news Api will allow users to access the news without waiting for the news to
   4. Run the application with flask run command
   5. open the application on your browser 
 
- Open terminal command line then navigate to the folder of the application. cd BEYONDPIZZA
- open index.html on your web browser
-
-
-## Behaviour Drive and DEvelopment
+## Behaviour Drive and Deelopment
 * [x] Displays Form For Entering Name, pizza size
 * [x]INPUT: "User's select medium , small or large"
 * [x]INPUT: "User's select pizza topings"
