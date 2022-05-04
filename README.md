@@ -34,23 +34,16 @@ The news Api will allow users to access the news without waiting for the news to
   4. Run the application with flask run command
   5. open the application on your browser 
 
-## Behaviour Drive and Deelopment
-* [x] Displays Form For Entering Name, pizza size
-* [x]INPUT: "User's select medium , small or large"
-* [x]INPUT: "User's select pizza topings"
-* [x]OUTPUT:"A user is alowed to select more than 1 toppings"
-INPUT: "Name and loctaion added after selection"
-OUTPUT: "Displays a thank you for contacting us message"
-* [x] Displays a submit failed pop up if Input is Left Blank
-INPUT: "User selects the pizza he would like to order customizing it with options for size, crust and toppings."
-OUTPUT: "A price breakdown and grand total price will appear as well as a checkout button to confirm order."
-OUTPUT: "Displays Error Message"
-* [x] Displays an Error Message if email address is invalid
-INPUT: "if the name address is empty"
-* [x] OUTPUT: "Display an Error Message"
-Clears Form and Reset the Message on Click
-* [x] INPUT: "Click Reset Button"
-OUTPUT: "Clears and Resets the Form"
+## Behaviour Drive and Development
+| FirstName     | LastName      | City   
+| ------------- | ------------- | --------    |
+| `John`        | Test1         | `NewYork`   |
+| `Bob`         | Test2         | `Toronto`   |
+
+
+
+
+
 [live-link](https://github.com/rossyvee/Week4IP-BeyondPizaa)
 ## Reference
   ### The reference materials used in this project can be accessed though this link
