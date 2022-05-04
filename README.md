@@ -28,6 +28,7 @@ The news Api will allow users to access the news without waiting for the news to
 ## set up instruction and installation
  1. clone this repository to a folder https://github.com/rossyvee/News_API
  2. Extract the cloned file and install requirements
+* cd News_Api_V2
  Open terminal command line then navigate to the folder of the application. cd BEYONDPIZZA
  open index.html on your web browser
 
