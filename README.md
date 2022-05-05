@@ -31,8 +31,18 @@ The news Api will allow users to access the news without waiting for the news to
 * pip install -r requirements.txt
   3. Export configurations
   export API_KEY='{Enter your News Api Key}
-  4. Run the application with flask run command
-  5. open the application on your browser 
+  4.python3.10 -m venv virtual --without-pip
+# Running the application locally
+
+source virtual/bin/activate
+
+pip install -r requirements.txt
+
+gunicorn --bind 0.0.0.0:5000 app:app
+
+- alternatively run (make sure the virtual environment is activated)
+
+python wsgi.py 
 
 ## Behaviour Drive and Development
 | Behaviour     | Input              | Output
