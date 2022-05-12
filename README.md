@@ -45,6 +45,7 @@ gunicorn --bind 0.0.0.0:5000 app:app
 python run.py 
 
 ## Behaviour Drive and Development
+
 | Behaviour     | Input              | Output
 |---------------|--------------------| --------    |
 | Display news sources | 'flask run         |  List of various news sources is displayed' |
