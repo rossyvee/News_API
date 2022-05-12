@@ -42,7 +42,7 @@ gunicorn --bind 0.0.0.0:5000 app:app
 
 - alternatively run (make sure the virtual environment is activated)
 
-python wsgi.py 
+python run.py 
 
 ## Behaviour Drive and Development
 | Behaviour     | Input              | Output
